@@ -4,7 +4,7 @@ A modern and responsive portfolio website built with React and Vite, showcasing 
 
 ## Demo
 
-Check out the live demo of the portfolio website: [Abhishek Gupta's Portfolio](https://abhishek-ds-ml-gupta.github.io/Awwward-Portfolio/)
+Check out the live demo of the portfolio website: [Abhishek Gupta's Portfolio](https://awwward-portfolio-tan.vercel.app/)
 
 ## Features
 - Built with React and Vite for fast performance
